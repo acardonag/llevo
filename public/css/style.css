@@ -367,20 +367,30 @@ ul.footer-menu li a:hover {
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
     color: #fff;
+    background-color: #25d366;
 }
 
 .social-buttons .btn-social:hover .ti-facebook {
     color: #fff;
-    background-color: #3b5998;
 }
 
 .social-buttons .btn-social:hover .ti-instagram {
     color: #fff;
+}
+
+.social-buttons .btn-social:hover .ti-mobile {
+    color: #fff;
+}
+
+.social-buttons .btn-social:hover .ti-facebook {
+    background-color: #3b5998;
+}
+
+.social-buttons .btn-social:hover .ti-instagram {
     background-color: #e1306c;
 }
 
-.social-buttons .btn-social:hover .ti-whatsapp {
-    color: #fff;
+.social-buttons .btn-social:hover .ti-mobile {
     background-color: #25d366;
 }
 
